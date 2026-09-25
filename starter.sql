@@ -1,5 +1,3 @@
-CREATE  DATABASE aathi12;
-USE aathi12;
 CREATE TABLE Department (
     DepartmentID INT PRIMARY KEY,
     DepartmentName VARCHAR(50) NOT NULL
